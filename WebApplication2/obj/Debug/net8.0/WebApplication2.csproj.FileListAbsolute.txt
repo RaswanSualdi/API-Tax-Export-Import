@@ -124,3 +124,4 @@
 /home/user/RiderProjects/WebApplication2/WebApplication2/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
 /home/user/RiderProjects/WebApplication2/WebApplication2/bin/Debug/net8.0/AutoMapper.dll
 /home/user/RiderProjects/WebApplication2/WebApplication2/bin/Debug/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/user/RiderProjects/WebApplication2/WebApplication2/obj/Debug/net8.0/WebApplication2.sourcelink.json
