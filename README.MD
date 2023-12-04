@@ -81,10 +81,3 @@ Jangan lupa untuk mengubah konfigurasi database anda pada file [appsettings.json
 Jika Anda ingin mengetahui seeder data (data dummy) yang di migration pada database silahkan buka file ```WebApplication2Context.cs```
 pada Folder ```Database```
 
-## Lisensi
-
-Proyek ini dilisensikan di bawah [Nama Lisensi Anda] - lihat berkas [LICENSE.md](LICENSE.md).
-
----
-
-Pastikan untuk menyesuaikan nama aplikasi, URL, dan konten lainnya sesuai kebutuhan Anda. Selain itu, Anda dapat menambahkan sebanyak mungkin detail yang diperlukan untuk membantu pengguna memahami, menginstal, dan berkontribusi pada proyek Anda. Juga, pastikan untuk menyertakan file [CONTRIBUTING.md](CONTRIBUTING.md) dan [LICENSE.md](LICENSE.md) jika diperlukan.
