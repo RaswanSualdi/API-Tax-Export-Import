@@ -4,7 +4,7 @@
 
 # API Tax Export - Import
 
-The application is a demo API for tax export-import.
+Applikasi ini adalah demo untuk tax api export dan import barang.
 
 ## Prasyarat
 
