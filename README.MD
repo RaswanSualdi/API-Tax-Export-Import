@@ -42,21 +42,21 @@ Pastikan Anda telah menginstal prasyarat berikut sebelum menjalankan aplikasi in
 
 - Enpoint untuk menampilkan semua negara dan negara tertentu dengan ur_negara
 
-![Screenshot from 2023-12-04 21-32-15.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202023-12-04%2021-32-15.png)
+![Screenshot 1](Screenshot%20from%202023-12-04%2021-32-15.png)
 
 
 - Endpoint untuk menampilkan pelabuhan berdasarkan kd_negara dan ur_pelabuhan
 
-![Screenshot from 2023-12-04 21-37-12.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202023-12-04%2021-37-12.png)
+![Screenshot%20from%202023-12-04%2021-37-12.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202023-12-04%2021-37-12.png)
 
 - Enpoint untuk menampilkan barang berdasarkan hs_code
 
-![Screenshot from 2023-12-04 21-41-58.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202023-12-04%2021-41-58.png)
+![Screenshot%20from%202023-12-04%2021-41-58.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202023-12-04%2021-41-58.png)
 
 - Endpoint untuk menghitung tarif bea masuk 
 
-![Screenshot from 2023-12-04 21-46-06.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202023-12-04%2021-46-06.png)
-![Screenshot from 2023-12-04 21-47-26.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202023-12-04%2021-47-26.png)
+![Screenshot%20from%202023-12-04%2021-46-06.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202023-12-04%2021-46-06.png)
+![Screenshot%20from%202023-12-04%2021-47-26.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202023-12-04%2021-47-26.png)
 
 ## Konfigurasi
 
